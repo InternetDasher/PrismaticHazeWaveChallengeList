@@ -1,0 +1,30 @@
+{
+    "id": 97995281,
+    "name": "Hard PP",
+    "author": "InternetDasher",
+    "creators": ["InternetDasher"],
+    "verifier": "InternetDasher",
+    "verification": "https://youtu.be/a8ntlbOoRU8?si=do-kl5dj-xezCFDz",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MiningMan1",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "air_",
+            "link": " https://youtu.be/EKLan3q9VGw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheReactionRule",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
