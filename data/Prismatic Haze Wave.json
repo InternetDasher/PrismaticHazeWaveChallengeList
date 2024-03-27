@@ -1,0 +1,37 @@
+{
+    "id": 62353414,
+    "name": "Prismatic Haze Wave",
+    "author": "〇 〇",
+    "creators": ["〇 〇"],
+    "verifier": "〇 〇",
+    "verification": "https://youtu.be/qGLruscJi4c?si=GwmTV2sj95kSna2-",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "InternetDasher",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MiningMan1",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "air_",
+            "link": "https://youtu.be/ac4sroFH8j8?si=IHHX4lZuj8CxAHhn",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheReactionRule",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+    
+}
